@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>[COLOR gold]Onda Cádiz TV[/COLOR][COLOR blue] live COAC 2024[/COLOR] </title>   
+<link>http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8?</link>
+<fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/directo.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/oc.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR gold]Canal Sur TV[/COLOR][COLOR blue] live COAC 2024[/COLOR] </title>        
+<urlsolve>https://www.youtube.com/watch?v=yb_gs_0v_P8</urlsolve>
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/canalsur.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/directo.jpg</fanart>
+</item>
+
+<item>
+<title> [COLOR white]Onda Cádiz: (Preliminares, Cuartos de Final, Semifinal y Final de Adultos, Infantiles y Juveniles)[/COLOR] </title> 
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/iconOnline.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/directo.jpg</fanart>
+<link>http://ignorame</link><thumbnail>
+</item>
+
+<item>
+<title> [COLOR white]Canal Sur: (Semifinales y Gran Final)[/COLOR] </title> 
+<thumbnail>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/iconOnline.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/sotavent0/carnamaleon/master/image/directo.jpg</fanart>
+<link>http://ignorame</link><thumbnail>
+</item>
+
