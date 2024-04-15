@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR blue]Corações a Mil[/COLOR][COLOR gold] Internacional[/COLOR] CDs Completos</title>
+<title>[COLOR blue]Coletânea [/COLOR][COLOR gold] Lovy Metal[/COLOR] CDs Completos</title>
+<thumbnail>https://i.imgur.com/HjuB2qP.png</thumbnail>
+<fanart>https://i.imgur.com/HFdq9Bf.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/7PlusREPO/duffyou-123/master/duffyou/RSA/Lovy.Metal.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR blue]Coletânea [/COLOR][COLOR gold] Corações a Mil Internacional[/COLOR] CDs Completos</title>
 <thumbnail>https://i.imgur.com/HjuB2qP.png</thumbnail>
 <fanart>https://i.imgur.com/HFdq9Bf.jpg</fanart>
 <link>http://ignoreme</link>
@@ -9,7 +17,7 @@
 </item>
 
 <item>
-<title>[COLOR blue]Rock[/COLOR][COLOR gold] Ballads[/COLOR] CDs Completos</title>
+<title>[COLOR blue]Coletânea [/COLOR][COLOR gold] Rock Ballads[/COLOR] CDs Completos</title>
 <thumbnail>https://i.imgur.com/HjuB2qP.png</thumbnail>
 <fanart>https://i.imgur.com/HFdq9Bf.jpg</fanart>
 <link>http://ignoreme</link>
